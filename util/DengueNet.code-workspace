@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../mnt/usb/jupyter-mimikuo"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
