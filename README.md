@@ -1,1 +1,1 @@
-# DengueNet-IJCAI-workshop
+# DengueNet
