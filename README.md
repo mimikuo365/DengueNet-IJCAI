@@ -10,6 +10,8 @@ This is the repo for the IJCAI workshop paper entitled "DengueNet: Dengue Predic
   - Evaluate.py: Evaluate stored models' performance
   - Train.py: Read in the dataset and train models
 - util: Contains the helper functions
+- README.md: The basic setup for this project
+- environment.yml: The library setup we used in this project.
 
 ## Dataset Structure
 
